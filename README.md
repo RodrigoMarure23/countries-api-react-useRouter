@@ -42,6 +42,5 @@ This project is open source and available under the [MIT License](LICENSE).
 -4199-421f-98a4-42ecc46c8976.jpg)
 ![desktop-design-home-light](https://user-images.githubusercontent.com/93884973/216499025-b95da203-0abf-4586-8409-d422128edf6b.jpg)
 ![desktop-design-detail-dark](https://user-images.githubusercontent.com/93884973/216499037-b0c6c0e8-3294-452f-80a3-bc40d8610cb8.jpg)
-![Uploading desktop-design-detail-light.jpg…]()
 
 ___
